@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    width:1423px;
+    font-family: "メイリオ" ;
+    background-color: #FFF;
+}
+header{
+    height:270px;
+}
+.container{
+    float:right;
+}
+#topic{
+    margin-top: 0;
+}
+header p{
+    padding-left: 280px;
+    padding-top:110px;
+    float: left;
+    font-size:32px ;
+    font-family: Meiryou;
+    color: #24292E;
+}
+.header-right{
+    padding-right:250px;
+    padding-top:120px;
+}
+.header-right a{
+    display:inline-block;
+    padding-right:30px;
+    font-size: 14px;
+    height: 12px;
+    color: #24292E;
+    font-family: Meiryo;
+    text-decoration: none;
+}
+.insta{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+
+
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto 130px auto;
+    font-size: 0.9rem;
+    padding: 0 4%;
+}
+img{
+/*     width:1423px;
+    height: 420px; */
+    max-width: 100%;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+*, :after, :before {
+    background-repeat: no-repeat;
+    box-sizing: inherit;
+}
+.list{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    color: #24292E;
+}
+.about{
+    margin:0;
+    padding-top:90px;
+    padding-bottom:70px;
+}
+.text{
+    font-size :14px;
+    color: #24292E;
+    margin:0 280px;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.photo_container{
+    height:480px;
+}
+.works{
+    padding-top: 120px;
+    padding-bottom:30px;
+}
+.photos{
+    width:20%;
+    margin: 0 290px;
+}
+.photo{
+    text-align: center;
+    display:block;
+    size:5%;
+}
+.news{
+    padding-bottom:75px ;
+}
+.newses{
+    margin:0 280px;
+    font-size: 14px;
+    color: #24292E;
+}
+.newses ul{
+    border-top:solid 1px #24292E;
+}
+.newses ul li{
+    padding:20px 0;
+    border-bottom:solid 1px #24292E;
+}
+.date{
+    margin-right: 85px;
+}
+.contact_container{
+    width:850px;
+    margin:0 auto;
+}
+.contact{
+    text-align: center;
+    padding-top:130px ;
+    padding-bottom:70px ;
+}
+.form p{
+    margin:0;
+}
+.textbox{
+    
+    display:inline-block;
+    margin:0;
+    width: 720px;
+}
+.form{
+    width:850px;
+    margin:0 auto;
+}
+.form_input{
+    padding:15px 85px;
+    background-color:#24292E ;
+    color: #FFF;
+    display:block;
+    margin:0 auto;
+    margin-top:45px;
+    text-align: center;
+}
+.form_input :hover{
+    background-color: #FFF;
+}
+
+
+
